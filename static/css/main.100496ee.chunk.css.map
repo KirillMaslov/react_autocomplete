@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss","webpack://src/components/PeopleList/PeopleList.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CCDf,aACE,qBAAkC","file":"main.100496ee.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n",".active_item {\n  background-color: rgb(0, 136, 255);\n}\n"]}
